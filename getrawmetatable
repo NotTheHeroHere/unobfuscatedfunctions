@@ -1,1 +1,1 @@
-return print(arg)
+print(arg)
