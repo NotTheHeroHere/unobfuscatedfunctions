@@ -1,1 +1,1 @@
-return print()
+return print(self)
