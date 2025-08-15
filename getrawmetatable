@@ -1,1 +1,1 @@
-print(arg)
+print(self)
